@@ -1,4 +1,4 @@
-# ckm_hunt
+# CKM treasure hunt
 
 ## Quick Start
 
